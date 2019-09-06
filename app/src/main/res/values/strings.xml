@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">FaceDetect</string>
     <string name="loading">Loading&#8230;</string>
+    <string name="title_activity_blood_picture_mctivity">BloodPictureMctivity</string>
+    <string name="Diastolic">舒張壓：80mmHg</string>
+    <string name="Systolic">收縮壓：120mmHg</string>
+    <string name="rate">心率：70bpm</string>
 </resources>
